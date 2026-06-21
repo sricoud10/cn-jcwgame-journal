@@ -1,2 +1,14 @@
 # cn-jcwgame-journal
-HTML page archive and documentation
+
+独立 HTML 页面集合
+
+本项目用于归档自动化任务输出的页面文件和基础说明。
+
+## 文件说明
+
+- `README.md`：仓库说明
+- `*.html`：发布后的独立页面
+
+## 维护说明
+
+页面内容会根据发布任务逐步追加，具体状态以提交记录为准。
